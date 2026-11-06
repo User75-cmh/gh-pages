@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Portafoli personal</title>
+    <link href="https://user75-cmh.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://user75-cmh.github.io/gh-pages" />
+    <updated>2026-11-06T10:08:05+01:00</updated>
+    <author>
+        <name>Gerard Barrabés</name>
+    </author>
+    <id>https://user75-cmh.github.io/gh-pages</id>
+
+    <entry>
+        <title>PER QUÈ LA FUSTA?</title>
+        <author>
+            <name>Gerard Barrabés</name>
+        </author>
+        <link href="https://user75-cmh.github.io/gh-pages/per-que-la-fusta/"/>
+        <id>https://user75-cmh.github.io/gh-pages/per-que-la-fusta/</id>
+
+        <updated>2026-11-06T10:08:05+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>JO MATEIX</title>
+        <author>
+            <name>Gerard Barrabés</name>
+        </author>
+        <link href="https://user75-cmh.github.io/gh-pages/jo-mateix/"/>
+        <id>https://user75-cmh.github.io/gh-pages/jo-mateix/</id>
+
+        <updated>2026-11-06T10:07:43+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>INICI</title>
+        <author>
+            <name>Gerard Barrabés</name>
+        </author>
+        <link href="https://user75-cmh.github.io/gh-pages/inici/"/>
+        <id>https://user75-cmh.github.io/gh-pages/inici/</id>
+
+        <updated>2026-11-06T09:59:43+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

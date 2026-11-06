@@ -1,0 +1,50 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Portafoli personal",
+    "description": "",
+    "home_page_url": "https://user75-cmh.github.io/gh-pages",
+    "feed_url": "https://user75-cmh.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://user75-cmh.github.io/gh-pages/media/website/logo_cata_color_fons_transparent_100px.png",
+    "author": {
+        "name": "Gerard Barrabés"
+    },
+    "items": [
+        {
+            "id": "https://user75-cmh.github.io/gh-pages/per-que-la-fusta/",
+            "url": "https://user75-cmh.github.io/gh-pages/per-que-la-fusta/",
+            "title": "PER QUÈ LA FUSTA?",
+            "author": {
+                "name": "Gerard Barrabés"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-06T10:08:05+01:00",
+            "date_modified": "2026-11-06T10:08:05+01:00"
+        },
+        {
+            "id": "https://user75-cmh.github.io/gh-pages/jo-mateix/",
+            "url": "https://user75-cmh.github.io/gh-pages/jo-mateix/",
+            "title": "JO MATEIX",
+            "author": {
+                "name": "Gerard Barrabés"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-06T10:07:43+01:00",
+            "date_modified": "2026-11-06T10:07:43+01:00"
+        },
+        {
+            "id": "https://user75-cmh.github.io/gh-pages/inici/",
+            "url": "https://user75-cmh.github.io/gh-pages/inici/",
+            "title": "INICI",
+            "author": {
+                "name": "Gerard Barrabés"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-06T09:59:43+01:00",
+            "date_modified": "2026-11-06T10:07:51+01:00"
+        }
+    ]
+}
